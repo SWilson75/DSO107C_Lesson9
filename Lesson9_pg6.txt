@@ -1,0 +1,25 @@
+Lesson 9 pg.6 
+Making Commits
+Ok, now start making some additions to your repo and see what 
+happens. 
+*	First, create a new file in the directory where you cloned the 
+repo.  You will start with something really simple - a text file. 
+o	But know that you can create any kind of file in the folder 
+on your computer where your repo lives.  It could be a R 
+Studio Script, a Python .ipynb, or even a Power Point.
+Tip!
+You can also drag and drop or copy in existing files to your repo this 
+way as well - just like any other file folder on your computer.
+*	In this case, you will create a text file named newFile.txt. While 
+you are here, change something in the README.md file that 
+was part of the initial commit.
+
+
+
+
+1
+
+
+
+
+
