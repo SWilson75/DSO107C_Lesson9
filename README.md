@@ -4,3 +4,6 @@ Into to Big Data Lesson 9 Source Control using Git
 pg. 6
 updating changes and making commits of those changes
 
+pg. 7  
+Branching  and changes made on branches
+
